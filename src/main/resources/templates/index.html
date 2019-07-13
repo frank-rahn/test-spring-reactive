@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Demo</title>
+</head>
+<body>
+  <div class="container">
+    <div class="row">
+      <table class="table table-striped">
+        <thead>
+          <tr>
+            <th>Demos</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr data-th-each="t: ${text}">
+            <td>[[${t}]]</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</body>
+</html>
