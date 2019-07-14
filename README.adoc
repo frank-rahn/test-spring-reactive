@@ -6,7 +6,7 @@ Frank Rahn <https://github.com/frank-rahn[@frank-rahn]>
 :toc-placement!:
 :sectanchors:
 
-Demo Projekt eines reactiven Webservices auf Basis von Spring Boot.
+Demo Projekt eines reaktiven Webservices auf Basis von Spring Boot.
 
 image:https://img.shields.io/badge/license-Apache_License_2-blue.svg[title="Apache License 2", alt="Apache License 2", link="https://www.apache.org/licenses/LICENSE-2.0"]
 
